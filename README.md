@@ -14,7 +14,7 @@ roop的项目地址：https://github.com/s0md3v/roop
 - 安装ffmpeg
 
 ```markdown
-我的操作系统版本是Ubuntu 18.04.4 LTS（带GPU会快一点），以上所将的环境请自行百度安装！
+我的操作系统版本是Ubuntu 18.04.4 LTS（带GPU会快一点），以上所说的环境请自行百度安装！
 ```
 
 拉取项目
