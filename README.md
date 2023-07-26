@@ -20,7 +20,7 @@ roop的项目地址：https://github.com/s0md3v/roop
 拉取项目
 
 ```bash
-git clone git@github.com:VoidAndNullity/roop.git
+git clone git@github.com:VoidAndNullity/roop-jupyter.git
 ```
 
 如果你还没有安装jupyter，请执行这个命令安装下
