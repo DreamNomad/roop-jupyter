@@ -3,6 +3,8 @@ roop的项目地址：https://github.com/s0md3v/roop
 
 [roop.ipynb](https://github.com/VoidAndNullity/roop/blob/main/roop.ipynb)是这个仓库的https://github.com/dream80/roop_colab/blob/main/roop_v1.ipynb
 
+roop使用的是【1.1.0】版本的
+
 # 快速使用
 
 - 安装Anaconda3
