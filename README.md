@@ -19,7 +19,7 @@ roop使用的是【1.1.0】版本的
 拉取项目
 
 ```bash
-git clone git@github.com:VoidAndNullity/roop-jupyter.git
+git clone git@github.com:DreamNomad/roop-jupyter.git
 ```
 
 如果你还没有安装jupyter，请执行这个命令安装下
