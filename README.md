@@ -1,6 +1,8 @@
 
 roop的项目地址：https://github.com/s0md3v/roop
 
+参考：https://github.com/dream80/roop_colab
+
 roop使用的是【1.1.0】版本的
 
 # 快速使用
